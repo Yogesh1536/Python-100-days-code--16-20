@@ -11,6 +11,7 @@
 #     rgb_colors.append(new_color)
 #
 # print(rgb_colors)
+# this above package colorgram is used to import rgb color code from the image and as a result i endered the tuple of colors inside color list
 import turtle
 
 color_list = [(59, 105, 147), (224, 202, 112), (217, 146, 79), (143, 176, 199), (126, 88, 62), (196, 146, 171),
